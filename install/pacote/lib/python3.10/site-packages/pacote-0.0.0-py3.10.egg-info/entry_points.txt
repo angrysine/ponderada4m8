@@ -1,0 +1,3 @@
+[console_scripts]
+chat_bot = pacote.chat_bot:main
+

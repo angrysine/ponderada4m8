@@ -1,0 +1,2 @@
+(?:diri(gir|ja))|(?:conduz(ir|a))|(?:movimentar)|(?:mov(er|a))|(?:encontr(ar|e))|(?:gui(ar|e))|(?:ir)|
+
